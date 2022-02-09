@@ -1,0 +1,15 @@
+Q:Is it a tv show?
+Q:Is it funny?
+A:Friends
+Q:Is it scary?
+Q:Is it a halloween theme?
+A:Halloweentown as a show
+A:Stranger Things
+A:The Last Kingdom (Drama)
+Q:Is it a movie?
+Q:Has it won an award?
+A:Avatar
+A:Fast and Furious
+Q:Is it in soap opera?
+A:Rebelde
+A:Hamilton
